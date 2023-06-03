@@ -99,6 +99,42 @@ Although mostly used as a side ingredient in local cuisines, guavas can be the m
        attribution="Isabelle Liew"
        license="CC Isabelle Liew, used with permission">
 
+Another popular way of consuming guavas is in beverages. Guava juice is very popular in Southeast Asia. It is either sold fresh by street vendors or canned in supermarkets. It can be added to a range of cocktails and mocktails and seems to be a popular ingredient choice for hotel bars in Singapore. The two cocktail recipes here, one made at the Holiday Inn[^18] and the other at Hyatt Regency[^19] both use guava juice. The non-alcoholic ‘Island Dream’ drink at the Mandarin Hotel also uses guava juice as one of its main ingredients and “was the winning drink in the mocktail competition” at the 1988 Singapore Swing celebrations.[^20]
+<param ve-image 
+       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/izzy_guava.jpg"
+       title="Guava dish" 
+       description="Photo taken by Isabelle Liew'"
+       attribution="Isabelle Liew"
+       license="CC BY-NC">
+
+## Medicinal uses
+
+Outside the realm of mixology, the guava is known for its health benefits. It was ranked in first place in the fruit category in terms of its “contribution to the diet of five nutrients: vitamin A (beta-carotene), vitamin C, iron, potassium and calcium, and dietary fibre” by the Straits Times in 1994.[^21] Furthermore, guavas play an important role in traditional medicinal practices. Its leaves are edible and a “decoction of the young leaves [can be] drunk to treat stomachache” or “chewed and eaten to treat diarrhea”.[^22] Another use is treating “body odor and rough skin” by rubbing the young leaves on the body.[^23] The leaves are also used in herbal baths by the “Temuan Community in Taman Negara Gunung Ledang during their postnatal care” to “treat flatulence and freshen [the] body”.[^24] Since there are many medicinal uses for guava leaves, it was common in the day to see someone with a “bundle of guava tree twigs”.[^25]
+<param ve-image 
+       url="https://www.feedipedia.org/sites/default/files/images/psidium_guajava_habit_starr.jpg"
+       title="Guava tree branches and leaves" 
+       description="Accessed through www.feedipedia.org'"
+       attribution="Kim Starr"
+       license="CC BY-NC">
+
+## Guava legends
+
+Lastly, there are several traditional folklore stories about the guava fruit in Southeast Asia. One such tale is the ‘The Legend of the Guava’ from the Philippines which associates the origins of the guava tree to the death of a king. The story goes that once upon a time a greedy and cold-hearted king called Barabas ruled the country. Although he himself lived in prosperity and enjoyed all the foods imaginable, he neglected his kingdom and did not care for the suffering of his starving people. One day an old beggar lady (or an orphan boy according to different variations) asked King Barabas for something to eat. He refused to share any of his food and turned her away. Soon after he became very sick and died. No one mourned his death as he was despised by the people. After he was buried, a strange plant started growing from his grave. The tree bore fruits with crown-like shapes on top which reminded the people of their selfish king. The fruit was also sour at first, “just like the sour personality of the king towards them”. However, in time the fruit ripened and became sweet. As people learned to eat the fruit, it prevented their starvation. Because “the tree was from the grave of their King Barabas and it had a crown just like their king, they named the tree after him: *barabas*, which in time they called *bayabas*”. Guavas are still called bayabas in Tagalog and their origins are associated with this interesting tale. 
+<param ve-image 
+       url="https://tashamat.files.wordpress.com/2017/10/3282570419_9b5d0c368d_b.jpg"
+       title="Guava fruits with crowns" 
+       description="Accessed tashamat.wordpress.com'"
+       attribution="TashaMat"
+       license="CC BY-NC">
+
+As evidenced by the many examples of local cultural and culinary practices involving the guava, the plant has become ingrained in Southeast Asian cultures following its naturalization in the region. It has a rich history of communal uses and associations and continues to be of cultural importance.
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/20150000007/img0078.jpg"
+       title="Farm with guava trees, banana plants, and chicken house at 11A Chua Chu Kang Road" 
+       description="Photo taken in 1985"
+       attribution="National Archives of Singapore"
+       license="CC BY-NC">
+
 # References
 
 [^1]: David Mead, “Types of jambu,” Sulang Language Data and Working Papers: Topics in Lexicography, no. 21 (2013): 1-11.
@@ -118,3 +154,11 @@ Although mostly used as a side ingredient in local cuisines, guavas can be the m
 [^15]: Atika Lim, “Fruit Rojak,” The Singapore Women’s Weekly, May 26, 2016, https://www.womensweekly.com.sg/recipe/food/asian-recipes/fruit-rojak/.
 [^16]: “Rojak,” Visit Singapore, https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/rojak/.
 [^17]: Commentary from friend Isabelle Liew, February 18, 2023. 
+[^18]: “Page 5 Advertisements Column 2,” New Nation, October 21, 1981, Page 5, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19811021-1.2.27.2?ST=1&AT=search&k=guava%20recipe&QT=guava,recipe&oref=article.
+[^19]: “Page 6 Advertisements Column 1,” The Straits Times, December 18, 1990, Page 6, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901218-1.2.65.1?ST=1&AT=search&k=guava%20recipe&QT=guava,recipe&oref=article.
+[^20]: “Oh, for a cool, exotic drink!” The Straits Times, December 16, 1988, Page 2, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881216-1.2.123.5.1?ST=1&AT=search&K=guava+recipe&P=2&Display=0&filterS=0&QT=guava,recipe&oref=article.
+[^21]: “Recipe for healthy eating,” The Straits Times, September 9, 1994, Page 4, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940909-1.2.120.6.1?ST=1&AT=search&K=guava+recipe&P=3&Display=0&filterS=0&QT=guava,recipe&oref=article.
+[^22]: H.C. Ong, and J. Norzalina, “Malay herbal medicine in Gemencheh, Negri Sembilan, Malaysia,” Fitoterapia 70, no. 1 (1999): 10–14, doi:10.1016/s0367-326x(98)00023-9.
+[^23]:  H.C. Ong, B.N. Ruzalila, and P. Millow, “Traditional Knowledge of Medicinal Plants among the Malay Villagers in Kampung Mak Kemas, Terengganu, Malaysia,” Studies on Ethno-Medicine 5, no. 3 (2011): 175–185, doi:10.1080/09735070.2011.11886407. 
+[^24]: N.A. Jahiman, F. Pa’ee1, N.A. Manan, and N.A. Md Salleh, “Development of herbal bag for herbal bath during postnatal care from Temuan traditional knowledge,” Earth and Environmental Science 736 (2021): 1-6, 		doi:10.1088/1755-1315/736/1/012027.
+[^25]: Tuan Djek, “Countryman’s Journal,” Straits Budget, January 22, 1958, Page 17, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19580122-1.2.96?ST=1&AT=search&k=guava%20kampong&QT=guava,kampong&oref=article.

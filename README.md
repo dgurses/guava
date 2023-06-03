@@ -1,4 +1,4 @@
-# guava
+# Guava: An exciting delicacy across Southeast Asian cultures
 <param ve-config 
        title="Guava Essay"
        author="Dünya Gürses"

@@ -40,7 +40,7 @@ You can use the QID tag within a sentence. For example: The <span eid="Q170662">
        
 These are both examples of images added *from urls*. This is the preferred method. However, there might be some images you have to upload yourself. That's totally fine! Ideally, these files should be *as small as possible* and only .jpg or .png files will work. You should create a folder in your repository called "media" and upload the file there. Then, for the url, just copy and paste the item path: "media/{filename}.jpg". For more information on adding multiple images, comparisons, curtain sliders, and for how to zoom into particular sections of an image, check out the documentation [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag).
 <param ve-image 
-       url="pictures/guava.png"
+       url="https://github.com/dgurses/guava/blob/1add87395eb2bc0a4e8d2c8b8bb362cbe91cedf2/pictures/guava.png"
        title="Victoria crowned pigeon"
        attribution="Katherine Enright">     
 ## Map

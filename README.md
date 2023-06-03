@@ -37,6 +37,13 @@ In Malay/Indonesian the guava is called *jambu batu*, the word *jambu* having or
        attribution="National Archives of Singapore"
        license="CC BY-NC">
 
+The guava tree is common in all villages across Malaysia and Singapore and can still be found in old kampong areas in Singapore such as Pulau Ubin. Hence the guava tree has come to be identified closely with the kampong life and nostalgia for the kampong. In an oral history interview, Aloysious Leo De Conceicao, a bank officer and funeral minister who grew up in the east of Singapore, talks about the prevalence of jambu trees in the area in the late 30s and early 40s. According to Aloysious, there “were all these jambus, guavas, all types of guavas especially walking back from school in St. Patrick’s Road, Telok Kurau and all that, they had all types of jambu trees [like] jambu meral lah, jambu this, jambu rose apple”.[^3] He tells a story about how he and his friends used to go and pluck fruits from trees without permission. They would also take what the Malays call “cabang”, a fork-shaped branch from the trees. The jambu batu branches would be especially nicely grown in a “cabang” shape for the kids to take. Then they would cut the branches, burn them and make them into catapults. They were “fond of going to catapult birds or fruits which were high” using the catapults they made from the guava tree branches.[^4] Kannan Madhavan, too, a Singapore local born in 1946, recalls how he and other boys used to play barefoot climbing guava trees in the kampong in an oral interview.[^5]
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/20150000007/img0078.jpg"
+       title="Farm with guava trees, banana plants, and chicken house at 11A Chua Chu Kang Road" 
+       description="Photo taken in 1985"
+       attribution="National Archives of Singapore"
+       license="CC BY-NC">
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
@@ -118,3 +125,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 [^1]: David Mead, “Types of jambu,” Sulang Language Data and Working Papers: Topics in Lexicography, no. 21 (2013): 1-11.
 [^2]: “Anderson’s Malayan Peninsula,” Singapore Chronicle and Commercial Register, January 16, 1836, Page 1, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18360116-1.2.2?ST=1&AT=search&k=jambu%20batu&SortBy=Oldest&filterS=0&Display=0&QT=jambu,batu&oref=article.
+[^3]: Aloysius De Leo Conceicao, “Story of Joo Chiat Changing Landscapes & Community,” interview by Zaleha Bte Osman, Oral History Centre, 1998, audio, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/554b76ff-115e-11e3-83d5-0050568939ad?keywords=Story%20of%20Joo%20Chiat%20Changing%20Landscapes%20%26%20Community&keywords-type=all.
+[^4]: De Leo Conceicao, interview.
+[^5]: Kannan Madhavan, “Kannan MADHAVAN,” interview by Lulu Ong, Oral History Centre, December 28, 2019, audio, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1086dd77-39dc-11eb-85f4-005056a7c31c?keywords=guava&keywords-type=all

@@ -54,7 +54,12 @@ The association of guava trees with the kampong can be seen in various local lit
        license="CC BY-NC">
 
 The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once again what an integral part of traditional life the guava is. This pantun is a *nasihat* (advice) and relays that “like everything else in life, all positive endeavours need patience and time” to an “individual who is just starting her or his journey of knowledge”.[^7] So here the guava is used to symbolize a lesson learned or an achievement. This specific pantun belongs to the Melaka Chetti Indian community and is an example of the prevalence of the guava across diverse Southeast Asian cultures. 
-
+<param ve-image 
+       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/pantun.png"
+       title="Malay Pantun" 
+       description="Taken from *The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity*"
+       attribution="Adnan & Pillay 2020, 17"
+       license="CC BY-NC">
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 

@@ -2,7 +2,7 @@
 <param ve-config 
        title="Guava Essay"
        author="Dünya Gürses"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg](https://lh3.googleusercontent.com/keep-bbsk/AO8PoW3gmA8SYVVT1jw3mwv4SkO6Rm4wCcEfk5s-hSZOm3ZbjuXqhg0nIDGjtTFL1JPZqM2NCMDV3gL8s_l4VKhPWYkPH05mPXNSsgKssEhl0nxuUYRqCg=s1600)"
+       banner="https://raw.githubusercontent.com/dgurses/guava/main/pictures/guava2.png"
        layout="vertical">
        
 Although not native to Southeast Asia, the guava has become a delicacy across many of the region’s cultures. From street names to cocktail recipes to traditional poetry, the guava has garnered culinary and cultural significance in Southeast Asia over the years. 

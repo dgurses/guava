@@ -5,7 +5,9 @@
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg](https://lh3.googleusercontent.com/keep-bbsk/AO8PoW3gmA8SYVVT1jw3mwv4SkO6Rm4wCcEfk5s-hSZOm3ZbjuXqhg0nIDGjtTFL1JPZqM2NCMDV3gL8s_l4VKhPWYkPH05mPXNSsgKssEhl0nxuUYRqCg=s1600)"
        layout="vertical">
        
-For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
+Although not native to Southeast Asia, the guava has become a delicacy across many of the region’s cultures. From street names to cocktail recipes to traditional poetry, the guava has garnered culinary and cultural significance in Southeast Asia over the years. 
+
+Guava trees are small to medium-sized trees that can grow up to 10 meters tall. They have a short, thick trunk with smooth, brownish bark and a broad, spreading crown of branches. The leaves are oval-shaped and glossy, with a prominent midrib and veins. The flowers are white and have five petals, and the fruit is round to pear-shaped, with a thin, yellow or greenish skin and sweet, juicy flesh that turns from white to red as the fruit ripens. The fruit tree is native to Central America, northern South America, and the Caribbean but is widely cultivated throughout all of the tropics and subtropics.
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 

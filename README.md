@@ -21,6 +21,23 @@ Guava trees are small to medium-sized trees that can grow up to 10 meters tall. 
        attribution="National Museum of Singapore"
        license="CC BY-NC">
 
+The guava was likely brought to Southeast Asia by Spanish and Portuguese colonizers in the 15th and 16th centuries who introduced various tropical crops to the region during the colonial era. The exact details of how guava was brought over are unclear, but it is believed that the Spanish introduced it to the Philippines and the Portuguese into India.[^1] The guava tree thrived in Southeast Asia due to its adaptability to the region's tropical climate and soil conditions. Over time, the guava tree became naturalized, and it is now widely grown throughout the region, especially in countries like Indonesia, Malaysia, and the Philippines. With a long history in the region, the plant has become ingrained in many Southeast Asian cultures, whether it be traditional medicine or local food cultures, and is still enjoyed today by many.
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980007350-8262-3202-1113/img0086.jpg"
+       title="Guava fruit" 
+       description="Photo taken in 1989"
+       attribution="National Archives of Singapore"
+       license="CC BY-NC">
+
+In Malay/Indonesian the guava is called *jambu batu*, the word *jambu* having originated from Sanskrit. In Sanskrit jambu refers to a fruit or a rose apple, and is used to refer to a range of apple species in the Malay-speaking world. Of the “jambu (a species of apple) there are the jam bukling merah, (red) ayer mawa, (which tastes like rose water,) jambu bija, the guava, irong the cashew apple, another sort called britis”.[^2] Jambu batu is the name of the common guava with white flesh. When its flesh ripens and turns red the fruit is then referred to as *jambu batu merah* which simply translates to red guava. Jambu is used colloquially in Singapore to say pretty/beautiful and batu means rock in Malay so jambu batu literally means pretty rock. 
+<param ve-image 
+       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980007350-8262-3202-1113/img0086.jpg"
+       title="Guava fruit" 
+       description="Photo taken in 1989"
+       attribution="National Archives of Singapore"
+       license="CC BY-NC">
+
+
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
 *This makes things italics*. 
@@ -99,4 +116,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: Citation. Make sure you include the colon or this won't work!
+[^1]: David Mead, “Types of jambu,” Sulang Language Data and Working Papers: Topics in Lexicography, no. 21 (2013): 1-11.
+[^2]: “Anderson’s Malayan Peninsula,” Singapore Chronicle and Commercial Register, January 16, 1836, Page 1, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18360116-1.2.2?ST=1&AT=search&k=jambu%20batu&SortBy=Oldest&filterS=0&Display=0&QT=jambu,batu&oref=article.

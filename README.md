@@ -77,6 +77,22 @@ In many Southeast Asian countries, guava is commonly used in local dishes and be
        attribution="Ang Sarap"
        license="CC BY-NC">
 
+Another dish is asinan buah, a type of Indonesian pickled fruit salad that is “a specialty of the city of Bogor, West Java”.[^12] It is a “refreshing snack of fruit brined in vinegar, salt, and sugar” for which guavas are often used.[^13] In fact, guavas are used in many salad dishes in Indonesia, as well as in Singapore and Malaysia. One popular example is rojak, also known as rujak, which is of Javanese origin. It is a “ melange of crunchy fruits and vegetables, coated in a sticky sauce made of fermented shrimp” and “is sweet, salty, sour, crunchy and spicy all at once”.[^14] The popular mixed fruit salad is “a traditional Malay family favourite and one of Singapore’s most famous hawker dishes”.[^15] As rojak means ‘eclectic mix’ in colloquial Malay, the dish can be seen as a reflection of the cultural diversity of multiethnic countries like Malaysia and Singapore, “bringing together disparate items with strong flavours into a harmoniously tasty blend”.[^16]
+<param ve-image 
+       url="https://i0.wp.com/davinadavegan.com/wp-content/uploads/2018/03/IMG_2092.jpg?w=2048&ssl=1"
+       title="Nyonya rojak and ingredients" 
+       description="Savoury Fruit and Vegetable Salad'"
+       attribution="Davina Da Vegan"
+       license="CC BY-NC">
+
+Although mostly used as a side ingredient in local cuisines, guavas can be the main element of some dishes as well. The dish below shows guava slices served with ​​sng buay (sour plum) and dried orange peels at a Peranakan wedding in Singapore. The bride’s side is from Malaysia and they made it homemade. It was said that the guava “was soft and slightly sour, with a bit of sour plum powder then the orange peel made it very citrusy and fresh”.[^17] Guavas are commonly enjoyed raw with plum powder as a snack in Malaysia and Singapore and with chili salt in Thailand.
+<param ve-image 
+       url="https://i0.wp.com/davinadavegan.com/wp-content/uploads/2018/03/IMG_2092.jpg?w=2048&ssl=1"
+       title="Nyonya rojak and ingredients" 
+       description="Savoury Fruit and Vegetable Salad'"
+       attribution="Davina Da Vegan"
+       license="CC BY-NC">
+
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
 *This makes things italics*. 
@@ -164,4 +180,9 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^9]: “Why the eternal banana?” Straits Times Annual, January 1, 1938, Page 16/17, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19380101-1.2.11?ST=1&AT=search&k=guava%20kampong&QT=guava,kampong&oref=article.
 [^10]: “Utilising Local Food-Stuffs,” Straits Echo (Mail Edition), August 22, 1917, Page 1241, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsechomail19170822-1.2.41?ST=1&AT=search&k=guava%20kampong&QT=guava,kampong&oref=article.
 [^11]: Raymund, “Sinigang na Bayabas (Pork in Guava Soup),” Ang Sarap, May 1, 2020, https://www.angsarap.net/2011/05/20/sinigang-na-bayabas-pork-in-guava-soup/.
-
+[^12]: Nunuk Sri Rahayu, “Asinan Buah: Fruit Pickle Brine from Bogor,” Cook me Indonesian, August 22, 2020, https://www.cookmeindonesian.com/asinan-buah-fruit-pickle-brine-from-bogor/.
+[^13]: Rahayu, “Asinan Buah.”
+[^14]: Davina Goh, “NYONYA ROJAK (SAVOURY FRUIT AND VEGETABLE SALAD),” Davina Da Vegan, March 9, 2018, https://davinadavegan.com/rojak/#.
+[^15]: Atika Lim, “Fruit Rojak,” The Singapore Women’s Weekly, May 26, 2016, https://www.womensweekly.com.sg/recipe/food/asian-recipes/fruit-rojak/.
+[^16]: “Rojak,” Visit Singapore, https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/rojak/.
+[^17]: Commentary from friend Isabelle Liew, February 18, 2023. 

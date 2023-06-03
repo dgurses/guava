@@ -53,6 +53,8 @@ The association of guava trees with the kampong can be seen in various local lit
        attribution="The Straits Times"
        license="CC BY-NC">
 
+The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once again what an integral part of traditional life the guava is. This pantun is a *nasihat* (advice) and relays that “like everything else in life, all positive endeavours need patience and time” to an “individual who is just starting her or his journey of knowledge”.[^7] So here the guava is used to symbolize a lesson learned or an achievement. This specific pantun belongs to the Melaka Chetti Indian community and is an example of the prevalence of the guava across diverse Southeast Asian cultures. 
+
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
@@ -136,4 +138,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^4]: De Leo Conceicao, interview.
 [^5]: Kannan Madhavan, “Kannan MADHAVAN,” interview by Lulu Ong, Oral History Centre, December 28, 2019, audio, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1086dd77-39dc-11eb-85f4-005056a7c31c?keywords=guava&keywords-type=all
 [^6]: Chin Woon Ping, “A woman and the world,” The Straits Times, September 5, 1992, Page 18, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920905-1.2.68.4.12?ST=1&AT=search&K=guava+kampong&P=2&Display=0&filterS=0&QT=guava,kampong&oref=article
+[^7]: Haimi Mohd Adnan, Airil, and Indrani Arunasalam Sathasivam Pillay, “The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity,” International Journal of Comparative Literature and Translation Studies 8, no. 2, (2020): 15-21, doi:10.7575/aiac.ijclts.v.8n.2p.15.
 

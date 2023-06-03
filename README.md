@@ -2,7 +2,7 @@
 <param ve-config 
        title="Guava Essay"
        author="Dünya Gürses"
-       banner="[https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg](https://lh3.googleusercontent.com/keep-bbsk/AO8PoW3gmA8SYVVT1jw3mwv4SkO6Rm4wCcEfk5s-hSZOm3ZbjuXqhg0nIDGjtTFL1JPZqM2NCMDV3gL8s_l4VKhPWYkPH05mPXNSsgKssEhl0nxuUYRqCg=s1600)"
+       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg](https://lh3.googleusercontent.com/keep-bbsk/AO8PoW3gmA8SYVVT1jw3mwv4SkO6Rm4wCcEfk5s-hSZOm3ZbjuXqhg0nIDGjtTFL1JPZqM2NCMDV3gL8s_l4VKhPWYkPH05mPXNSsgKssEhl0nxuUYRqCg=s1600)"
        layout="vertical">
        
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).

@@ -47,7 +47,7 @@ The guava tree is common in all villages across Malaysia and Singapore and can s
 
 The association of guava trees with the kampong can be seen in various local literary forms as well. The 1992-published poem ‘Malacca Song’ by Malaysian poet Chin Woon Ping, for example, talks of the “guava wind” as she reminisces about her rural hometown.[^6]
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/poem1.png"
+       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/poem2.png"
        title="Excerpt from ‘Malacca Song’ by  Chin Woon Ping" 
        description="1992"
        attribution="The Straits Times"

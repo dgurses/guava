@@ -62,6 +62,12 @@ The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once 
        license="CC BY-NC">
 
 In Singapore, guava and the different jambu fruits are captured even in street names. The map below shows streets named ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’, and ‘Jalan Jambu Mawar’.[^8] These streets, presumably named after the abundance of jambu trees in the area, still exist today in Bukit Timah.
+<param ve-image 
+       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/street_names.png"
+       title="Map showing ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’ and ‘Jalan Jambu Mawar" 
+       description="Produced in 1959, titled *Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan*"
+       attribution="National Archives of Singapore"
+       license="CC BY-NC">
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 

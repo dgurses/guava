@@ -57,7 +57,7 @@ The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once 
 <param ve-image 
        url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/pantun.png"
        title="Malay Pantun" 
-       description="Taken from *The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity*"
+       description="Taken from 'The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity'"
        attribution="Adnan & Pillay 2020, p. 17"
        license="CC BY-NC">
 
@@ -65,7 +65,7 @@ In Singapore, guava and the different jambu fruits are captured even in street n
 <param ve-image 
        url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/street_names.png"
        title="Map showing ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’ and ‘Jalan Jambu Mawar" 
-       description="Produced in 1959, titled *Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan*"
+       description="Produced in 1959, titled 'Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan'"
        attribution="National Archives of Singapore"
        license="CC BY-NC">
 

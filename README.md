@@ -104,7 +104,7 @@ Another popular way of consuming guavas is in beverages. Guava juice is very pop
        url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/cocktails.png"
        title="Cocktail recipes" 
        description="Recipes taken from newspaper articles'"
-       attribution="'Long Drink' recipe from New Nation and 'Hurricane Helen' and 'Island Dream' the Straits Times"
+       attribution="'Long Drink' recipe from New Nation and 'Hurricane Helen' and 'Island Dream' from the Straits Times"
        license="CC BY-NC">
 
 ## Medicinal uses

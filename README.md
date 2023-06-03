@@ -87,11 +87,11 @@ Another dish is asinan buah, a type of Indonesian pickled fruit salad that is �
 
 Although mostly used as a side ingredient in local cuisines, guavas can be the main element of some dishes as well. The dish below shows guava slices served with ​​sng buay (sour plum) and dried orange peels at a Peranakan wedding in Singapore. The bride’s side is from Malaysia and they made it homemade. It was said that the guava “was soft and slightly sour, with a bit of sour plum powder then the orange peel made it very citrusy and fresh”.[^17] Guavas are commonly enjoyed raw with plum powder as a snack in Malaysia and Singapore and with chili salt in Thailand.
 <param ve-image 
-       url="https://i0.wp.com/davinadavegan.com/wp-content/uploads/2018/03/IMG_2092.jpg?w=2048&ssl=1"
-       title="Nyonya rojak and ingredients" 
-       description="Savoury Fruit and Vegetable Salad'"
-       attribution="Davina Da Vegan"
-       license="CC BY-NC">
+       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/izzy_guava.jpg"
+       title="Guava dish" 
+       description="Photo taken by Isabelle Liew'"
+       attribution="Isabelle Liew"
+       license="CC Isabelle Liew, used with permission">
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 

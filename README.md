@@ -45,11 +45,12 @@ The guava tree is common in all villages across Malaysia and Singapore and can s
        attribution="National Archives of Singapore"
        license="CC BY-NC">
 
+The association of guava trees with the kampong can be seen in various local literary forms as well. The 1992-published poem ‘Malacca Song’ by Malaysian poet Chin Woon Ping, for example, talks of the “guava wind” as she reminisces about her rural hometown.[^6]
+
+
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
 *This makes things italics*. 
-
-This is how you add a footnote. [^1]
 
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 
@@ -128,3 +129,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^3]: Aloysius De Leo Conceicao, “Story of Joo Chiat Changing Landscapes & Community,” interview by Zaleha Bte Osman, Oral History Centre, 1998, audio, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/554b76ff-115e-11e3-83d5-0050568939ad?keywords=Story%20of%20Joo%20Chiat%20Changing%20Landscapes%20%26%20Community&keywords-type=all.
 [^4]: De Leo Conceicao, interview.
 [^5]: Kannan Madhavan, “Kannan MADHAVAN,” interview by Lulu Ong, Oral History Centre, December 28, 2019, audio, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1086dd77-39dc-11eb-85f4-005056a7c31c?keywords=guava&keywords-type=all
+[^6]: Chin Woon Ping, “A woman and the world,” The Straits Times, September 5, 1992, Page 18, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920905-1.2.68.4.12?ST=1&AT=search&K=guava+kampong&P=2&Display=0&filterS=0&QT=guava,kampong&oref=article
+

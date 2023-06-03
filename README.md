@@ -58,8 +58,10 @@ The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once 
        url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/pantun.png"
        title="Malay Pantun" 
        description="Taken from *The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity*"
-       attribution="Adnan & Pillay 2020, 17"
+       attribution="Adnan & Pillay 2020, p. 17"
        license="CC BY-NC">
+
+In Singapore, guava and the different jambu fruits are captured even in street names. The map below shows streets named ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’, and ‘Jalan Jambu Mawar’.[^8] These streets, presumably named after the abundance of jambu trees in the area, still exist today in Bukit Timah.
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
@@ -144,4 +146,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^5]: Kannan Madhavan, “Kannan MADHAVAN,” interview by Lulu Ong, Oral History Centre, December 28, 2019, audio, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1086dd77-39dc-11eb-85f4-005056a7c31c?keywords=guava&keywords-type=all
 [^6]: Chin Woon Ping, “A woman and the world,” The Straits Times, September 5, 1992, Page 18, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920905-1.2.68.4.12?ST=1&AT=search&K=guava+kampong&P=2&Display=0&filterS=0&QT=guava,kampong&oref=article
 [^7]: Haimi Mohd Adnan, Airil, and Indrani Arunasalam Sathasivam Pillay, “The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity,” International Journal of Comparative Literature and Translation Studies 8, no. 2, (2020): 15-21, doi:10.7575/aiac.ijclts.v.8n.2p.15.
+[^8]: “Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan,” Singapore Survey Department, February 15, 1969, https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa5cb45c-115c-11e3-83d5-0050568939ad.
+
 

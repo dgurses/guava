@@ -6,8 +6,20 @@
        layout="vertical">
        
 Although not native to Southeast Asia, the guava has become a delicacy across many of the region’s cultures. From street names to cocktail recipes to traditional poetry, the guava has garnered culinary and cultural significance in Southeast Asia over the years. 
+<param ve-image 
+       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/guava2.png"
+       title="Guava drawing" 
+       description="William Farquhar Collection of Natural History Drawings"
+       attribution="National Museum of Singapore"
+       license="CC BY-NC">
 
 Guava trees are small to medium-sized trees that can grow up to 10 meters tall. They have a short, thick trunk with smooth, brownish bark and a broad, spreading crown of branches. The leaves are oval-shaped and glossy, with a prominent midrib and veins. The flowers are white and have five petals, and the fruit is round to pear-shaped, with a thin, yellow or greenish skin and sweet, juicy flesh that turns from white to red as the fruit ripens. The fruit tree is native to Central America, northern South America, and the Caribbean but is widely cultivated throughout all of the tropics and subtropics.
+<param ve-image 
+       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/guava2.png"
+       title="Guava drawing" 
+       description="William Farquhar Collection of Natural History Drawings"
+       attribution="National Museum of Singapore"
+       license="CC BY-NC">
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 

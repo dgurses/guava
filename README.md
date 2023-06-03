@@ -69,6 +69,14 @@ In Singapore, guava and the different jambu fruits are captured even in street n
        attribution="National Archives of Singapore"
        license="CC BY-NC">
 
+In many Southeast Asian countries, guava is commonly used in local dishes and beverages. It is said that the guava “is delicious if stewed and served with cream, or in a pie”.[^9] It is also known to make “very good jam”.[^10] There are many different ways to enjoy guavas, sweet or savory, and different Southeast Asian cultures have their own traditional recipes. In the Philippines, for example, guavas are used to make a sour soup called sinigang no bayabas (pork in guava soup). The well-loved Filipino soup dish is "prepared with pork belly, vegetables and tomatoes cooked in a soup infused with guava” and “has that guava sweet taste”.[^11]
+<param ve-image 
+       url="https://i0.wp.com/www.angsarap.net/wp-content/uploads/2019/05/Sinigang-sa-Bayabas-Wide.jpg?w=1080&ssl=1"
+       title="Sinigang no Bayabas" 
+       description="Pork in Guava Soup'"
+       attribution="Ang Sarap"
+       license="CC BY-NC">
+
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
 *This makes things italics*. 
@@ -153,5 +161,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^6]: Chin Woon Ping, “A woman and the world,” The Straits Times, September 5, 1992, Page 18, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920905-1.2.68.4.12?ST=1&AT=search&K=guava+kampong&P=2&Display=0&filterS=0&QT=guava,kampong&oref=article
 [^7]: Haimi Mohd Adnan, Airil, and Indrani Arunasalam Sathasivam Pillay, “The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity,” International Journal of Comparative Literature and Translation Studies 8, no. 2, (2020): 15-21, doi:10.7575/aiac.ijclts.v.8n.2p.15.
 [^8]: “Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan,” Singapore Survey Department, February 15, 1969, https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa5cb45c-115c-11e3-83d5-0050568939ad.
-
+[^9]: “Why the eternal banana?” Straits Times Annual, January 1, 1938, Page 16/17, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19380101-1.2.11?ST=1&AT=search&k=guava%20kampong&QT=guava,kampong&oref=article.
+[^10]: “Utilising Local Food-Stuffs,” Straits Echo (Mail Edition), August 22, 1917, Page 1241, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsechomail19170822-1.2.41?ST=1&AT=search&k=guava%20kampong&QT=guava,kampong&oref=article.
+[^11]: Raymund, “Sinigang na Bayabas (Pork in Guava Soup),” Ang Sarap, May 1, 2020, https://www.angsarap.net/2011/05/20/sinigang-na-bayabas-pork-in-guava-soup/.
 

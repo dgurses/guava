@@ -9,24 +9,21 @@ Although not native to Southeast Asia, the guava has become a delicacy across ma
        url="https://www.roots.gov.sg/CollectionImages/1083699.jpg"
        title="Guava Drawing" 
        description="William Farquhar Collection of Natural History Drawings"
-       attribution="Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh"
->
+       attribution="Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh">
 
 Guava trees are small to medium-sized trees that can grow up to 10 meters tall. They have a short, thick trunk with smooth, brownish bark and a broad, spreading crown of branches. The leaves are oval-shaped and glossy, with a prominent midrib and veins. The flowers are white and have five petals, and the fruit is round to pear-shaped, with a thin, yellow or greenish skin and sweet, juicy flesh that turns from white to red as the fruit ripens. The fruit tree is native to Central America, northern South America, and the Caribbean but is widely cultivated throughout all of the tropics and subtropics.
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1083699.jpg"
        title="Guava Drawing" 
        description="William Farquhar Collection of Natural History Drawings"
-       attribution="Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh"
->
+       attribution="Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh">
 
 The guava was likely brought to Southeast Asia by Spanish and Portuguese colonizers in the 15th and 16th centuries who introduced various tropical crops to the region during the colonial era. The exact details of how guava was brought over are unclear, but it is believed that the Spanish introduced it to the Philippines and the Portuguese into India.[^1] The guava tree thrived in Southeast Asia due to its adaptability to the region's tropical climate and soil conditions. Over time, the guava tree became naturalized, and it is now widely grown throughout the region, especially in countries like Indonesia, Malaysia, and the Philippines. With a long history in the region, the plant has become ingrained in many Southeast Asian cultures, whether it be traditional medicine or local food cultures, and is still enjoyed today by many.
 <param ve-image 
        url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980007350-8262-3202-1113/img0086.jpg"
        title="Guava fruit" 
        description="Photo taken in 1989"
-       attribution="National Archives of Singapore"
-     >
+       attribution="National Archives of Singapore">
 
 ## Etymology
 

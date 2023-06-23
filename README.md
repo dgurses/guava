@@ -46,12 +46,12 @@ The guava tree is common in all villages across Malaysia and Singapore and can s
        license="CC BY-NC">
 
 The association of guava trees with the kampong can be seen in various local literary forms as well. The 1992-published poem ‘Malacca Song’ by Malaysian poet Chin Woon Ping, for example, talks of the “guava wind” as she reminisces about her rural hometown.[^6]
+
 <param ve-image 
        url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/poem2.png"
        title="Excerpt from ‘Malacca Song’ by Chin Woon Ping" 
        description="1992"
-       attribution="The Straits Times"
-   >
+       attribution="The Straits Times">
 
 The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once again what an integral part of traditional life the guava is. This pantun is a *nasihat* (advice) and relays that “like everything else in life, all positive endeavours need patience and time” to an “individual who is just starting her or his journey of knowledge”.[^7] So here the guava is used to symbolize a lesson learned or an achievement. This specific pantun belongs to the [Melaka Chetti Indian community](https://www.google.com/url?q=https://www.roots.gov.sg/stories-landing/stories/chetti-melaka&sa=D&source=docs&ust=1685771650945908&usg=AOvVaw1EE-1elfX-pdt-Mw4o_qHa) and is an example of the prevalence of the guava across diverse Southeast Asian cultures. 
 <param ve-image 
